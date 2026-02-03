@@ -1,0 +1,15 @@
+# Ignore binary, intermediate, and saved folders
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vscode/
+.vs/
+
+# Ignore user-specific settings
+*.suo
+*.user
+*.userprefs
+
+# Ignore log files
+*.log

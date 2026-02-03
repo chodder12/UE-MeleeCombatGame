@@ -1,0 +1,42 @@
+2026/02/02-20:54:16.650 24b8 Reusing MANIFEST C:/Unreal Engine Projects/Mini_SoulsLike_ARPG/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2026/02/02-20:54:16.658 24b8 Recovering log #8
+2026/02/02-20:54:16.658 24b8 Reusing old log C:/Unreal Engine Projects/Mini_SoulsLike_ARPG/Saved/webcache_4430\Local Storage\leveldb/000008.log 
+2026/02/02-20:54:32.461 24b8 Level-0 table #12: started
+2026/02/02-20:54:32.464 24b8 Level-0 table #12: 70358 bytes OK
+2026/02/02-20:54:32.468 24b8 Delete type=0 #8
+2026/02/02-21:01:47.397 46b8 Level-0 table #14: started
+2026/02/02-21:01:47.400 46b8 Level-0 table #14: 71674 bytes OK
+2026/02/02-21:01:47.403 46b8 Delete type=0 #11
+2026/02/02-21:03:18.801 2ab0 Level-0 table #16: started
+2026/02/02-21:03:18.805 2ab0 Level-0 table #16: 75366 bytes OK
+2026/02/02-21:03:18.808 2ab0 Delete type=0 #13
+2026/02/02-21:03:18.809 2ab0 Compacting 4@0 + 1@1 files
+2026/02/02-21:03:18.811 2ab0 Generated table #17@0: 3 keys, 25384 bytes
+2026/02/02-21:03:18.811 2ab0 Compacted 4@0 + 1@1 files => 25384 bytes
+2026/02/02-21:03:18.813 2ab0 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/02/02-21:03:18.813 2ab0 Delete type=2 #7
+2026/02/02-21:03:18.813 2ab0 Delete type=2 #9
+2026/02/02-21:03:18.813 2ab0 Delete type=2 #12
+2026/02/02-21:03:18.813 2ab0 Delete type=2 #14
+2026/02/02-21:03:18.813 2ab0 Delete type=2 #16
+2026/02/02-21:12:16.340 6a20 Level-0 table #19: started
+2026/02/02-21:12:16.343 6a20 Level-0 table #19: 79653 bytes OK
+2026/02/02-21:12:16.345 6a20 Delete type=0 #15
+2026/02/02-21:14:46.470 2a68 Level-0 table #21: started
+2026/02/02-21:14:46.474 2a68 Level-0 table #21: 82686 bytes OK
+2026/02/02-21:14:46.476 2a68 Delete type=0 #18
+2026/02/02-21:37:33.091 6e58 Level-0 table #23: started
+2026/02/02-21:37:33.095 6e58 Level-0 table #23: 86106 bytes OK
+2026/02/02-21:37:33.097 6e58 Delete type=0 #20
+2026/02/02-21:37:56.479 2a68 Level-0 table #25: started
+2026/02/02-21:37:56.483 2a68 Level-0 table #25: 89710 bytes OK
+2026/02/02-21:37:56.485 2a68 Delete type=0 #22
+2026/02/02-21:37:56.485 2a68 Compacting 4@0 + 1@1 files
+2026/02/02-21:37:56.489 2a68 Generated table #26@0: 3 keys, 30680 bytes
+2026/02/02-21:37:56.489 2a68 Compacted 4@0 + 1@1 files => 30680 bytes
+2026/02/02-21:37:56.490 2a68 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/02/02-21:37:56.491 2a68 Delete type=2 #17
+2026/02/02-21:37:56.491 2a68 Delete type=2 #19
+2026/02/02-21:37:56.491 2a68 Delete type=2 #21
+2026/02/02-21:37:56.491 2a68 Delete type=2 #23
+2026/02/02-21:37:56.491 2a68 Delete type=2 #25

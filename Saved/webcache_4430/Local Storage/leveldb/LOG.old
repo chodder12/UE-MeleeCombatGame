@@ -1,12 +1,12 @@
-2026/02/01-18:56:31.702 9244 Reusing MANIFEST C:/Users/hodde/OneDrive/Documents/Unreal Projects/Mini_SoulsLike_ARPG/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2026/02/01-18:56:31.712 9244 Recovering log #3
-2026/02/01-18:56:31.714 9244 Reusing old log C:/Users/hodde/OneDrive/Documents/Unreal Projects/Mini_SoulsLike_ARPG/Saved/webcache_4430\Local Storage\leveldb/000003.log 
-2026/02/01-18:57:33.348 8044 Level-0 table #5: started
-2026/02/01-18:57:33.354 8044 Level-0 table #5: 69313 bytes OK
-2026/02/01-18:57:33.358 8044 Delete type=0 #3
-2026/02/01-19:02:33.360 8c58 Level-0 table #7: started
-2026/02/01-19:02:33.363 8c58 Level-0 table #7: 73853 bytes OK
-2026/02/01-19:02:33.366 8c58 Delete type=0 #4
-2026/02/01-19:06:40.916 8914 Level-0 table #9: started
-2026/02/01-19:06:40.921 8914 Level-0 table #9: 67494 bytes OK
-2026/02/01-19:06:40.923 8914 Delete type=0 #6
+2026/02/25-11:31:09.212 35a4 Reusing MANIFEST C:/Unreal Engine Projects/Mini_SoulsLike_ARPG/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2026/02/25-11:31:09.223 35a4 Recovering log #24
+2026/02/25-11:31:09.225 35a4 Reusing old log C:/Unreal Engine Projects/Mini_SoulsLike_ARPG/Saved/webcache_4430\Local Storage\leveldb/000024.log 
+2026/02/25-11:44:19.070 73c8 Level-0 table #29: started
+2026/02/25-11:44:19.075 73c8 Level-0 table #29: 65158 bytes OK
+2026/02/25-11:44:19.077 73c8 Delete type=0 #24
+2026/02/25-11:46:19.064 678c Level-0 table #31: started
+2026/02/25-11:46:19.068 678c Level-0 table #31: 66215 bytes OK
+2026/02/25-11:46:19.070 678c Delete type=0 #28
+2026/02/25-12:13:46.656 4b6c Level-0 table #33: started
+2026/02/25-12:13:46.660 4b6c Level-0 table #33: 73487 bytes OK
+2026/02/25-12:13:46.662 4b6c Delete type=0 #30

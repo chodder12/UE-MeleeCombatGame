@@ -1,1 +1,6 @@
-[0225/174042.062:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0227/211907.306:ERROR:backend_impl.cc(1041)] Critical error found -8
+[0227/211907.566:WARNING:storage_block-inl.h(146)] Failed data load.
+[0227/211908.268:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0227/212024.748:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 103
+[0227/212024.760:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 109
+[0227/212107.142:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
